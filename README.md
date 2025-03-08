@@ -38,7 +38,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 # saveur
 Conrad's recommendations and reviews on restaurants, bars + more. 
 
-Happy birthday Conrad! 4/12 
+Happy birthday Conrad! 4/12/25
 
 ## MVP
 - Log restaurants, bars, etc... we have gone to
@@ -48,6 +48,7 @@ Happy birthday Conrad! 4/12
 
 ## NTH
 - AI chat 
+- AI Train or guess what to eat if we haven't eaten at restaurant recently
 - Web scrape for suggestions
 - Suggest where to eat based on location
 - Map
@@ -56,3 +57,4 @@ Happy birthday Conrad! 4/12
 ## Tech
 - Nextjs?
 - Supabase?
+- MongoDB? SQLite?
