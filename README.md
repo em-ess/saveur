@@ -55,6 +55,7 @@ Happy birthday Conrad! 4/12/25
 - UI if we want to share with other people if they want his recommendations
 
 ## Tech
-- Nextjs?
-- Supabase?
-- MongoDB? SQLite?
+- Nextjs
+- Supabase
+- MongoDB
+- HeroUI 
