@@ -1,3 +1,5 @@
+"use client";
+
 import Image from "next/image";
 
 export default function Home() {
@@ -9,15 +11,8 @@ export default function Home() {
         </code>
       </main>
       <footer className="row-start-3 flex gap-6 flex-wrap items-center justify-center">
-        <a
-          href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="flex items-center justify-center gap-2"
-        >
-          <span>Powered by</span>
-          <Image src="/vercel.svg" alt="Vercel Logo" width={72} height={16} />
-        </a>
+        <span>Powered by</span>
+        <Image src="/vercel.svg" alt="Vercel Logo" width={72} height={16} />
       </footer>
     </div>
   );
